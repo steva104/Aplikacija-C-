@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive - Fakultet organizacionih nauka\\ZubarProjekatFINAL\\ZubarProjekat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41ED9EA0-A978-49B3-9226-3ADFA87B9B85}|SistemskeOperacije\\SistemskeOperacije.csproj|c:\\users\\dell\\onedrive - fakultet organizacionih nauka\\zubarprojekatfinal\\zubarprojekat\\sistemskeoperacije\\evidencijapregledaso\\izmenievidencijuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41ED9EA0-A978-49B3-9226-3ADFA87B9B85}|SistemskeOperacije\\SistemskeOperacije.csproj|solutionrelative:sistemskeoperacije\\evidencijapregledaso\\izmenievidencijuso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4618894-BCF5-490B-B6EE-46752D39CE02}|Zajednicki\\Zajednicki.csproj|c:\\users\\dell\\onedrive - fakultet organizacionih nauka\\zubarprojekatfinal\\zubarprojekat\\zajednicki\\domen\\evidencijapregleda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4618894-BCF5-490B-B6EE-46752D39CE02}|Zajednicki\\Zajednicki.csproj|solutionrelative:zajednicki\\domen\\evidencijapregleda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\DELL\\OneDrive - Fakultet organizacionih nauka\\ZubarProjekatFINAL\\ZubarProjekat\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IzmeniEvidencijuSO.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - Fakultet organizacionih nauka\\ZubarProjekatFINAL\\ZubarProjekat\\SistemskeOperacije\\EvidencijaPregledaSO\\IzmeniEvidencijuSO.cs",
-              "RelativeDocumentMoniker": "SistemskeOperacije\\EvidencijaPregledaSO\\IzmeniEvidencijuSO.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive - Fakultet organizacionih nauka\\ZubarProjekatFINAL\\ZubarProjekat\\SistemskeOperacije\\EvidencijaPregledaSO\\IzmeniEvidencijuSO.cs",
-              "RelativeToolTip": "SistemskeOperacije\\EvidencijaPregledaSO\\IzmeniEvidencijuSO.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T07:07:54.915Z",
+              "Title": ".gitignore.txt",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - Fakultet organizacionih nauka\\ZubarProjekatFINAL\\ZubarProjekat\\.gitignore.txt",
+              "RelativeDocumentMoniker": ".gitignore.txt",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive - Fakultet organizacionih nauka\\ZubarProjekatFINAL\\ZubarProjekat\\.gitignore.txt",
+              "RelativeToolTip": ".gitignore.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-25T13:41:16.668Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EvidencijaPregleda.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive - Fakultet organizacionih nauka\\ZubarProjekatFINAL\\ZubarProjekat\\Zajednicki\\Domen\\EvidencijaPregleda.cs",
-              "RelativeDocumentMoniker": "Zajednicki\\Domen\\EvidencijaPregleda.cs",
-              "ToolTip": "C:\\Users\\DELL\\OneDrive - Fakultet organizacionih nauka\\ZubarProjekatFINAL\\ZubarProjekat\\Zajednicki\\Domen\\EvidencijaPregleda.cs",
-              "RelativeToolTip": "Zajednicki\\Domen\\EvidencijaPregleda.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA4wCEAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T07:04:56.174Z"
             }
           ]
         }
