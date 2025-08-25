@@ -1,0 +1,85 @@
+C:\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\SistemskeOperacije.deps.json
+C:\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\SistemskeOperacije.dll
+C:\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\SistemskeOperacije.pdb
+C:\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\DBBroker.dll
+C:\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\Zajednicki.dll
+C:\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\DBBroker.pdb
+C:\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\Zajednicki.pdb
+C:\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.csproj.AssemblyReference.cache
+C:\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.AssemblyInfoInputs.cache
+C:\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.AssemblyInfo.cs
+C:\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.csproj.CoreCompileInputs.cache
+C:\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\Sistemsk.93CF11E2.Up2Date
+C:\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.dll
+C:\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\refint\SistemskeOperacije.dll
+C:\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.pdb
+C:\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\ref\SistemskeOperacije.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\SistemskeOperacije.deps.json
+C:\Users\Stevan\Desktop\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\SistemskeOperacije.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\SistemskeOperacije.pdb
+C:\Users\Stevan\Desktop\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\DBBroker.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\Zajednicki.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\DBBroker.pdb
+C:\Users\Stevan\Desktop\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\Zajednicki.pdb
+C:\Users\Stevan\Desktop\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.csproj.AssemblyReference.cache
+C:\Users\Stevan\Desktop\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stevan\Desktop\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.AssemblyInfoInputs.cache
+C:\Users\Stevan\Desktop\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.AssemblyInfo.cs
+C:\Users\Stevan\Desktop\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.csproj.CoreCompileInputs.cache
+C:\Users\Stevan\Desktop\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\Sistemsk.93CF11E2.Up2Date
+C:\Users\Stevan\Desktop\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\refint\SistemskeOperacije.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.pdb
+C:\Users\Stevan\Desktop\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\ref\SistemskeOperacije.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\SistemskeOperacije.deps.json
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\SistemskeOperacije.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\SistemskeOperacije.pdb
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\DBBroker.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\Zajednicki.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\DBBroker.pdb
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\Zajednicki.pdb
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.csproj.AssemblyReference.cache
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.AssemblyInfoInputs.cache
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.AssemblyInfo.cs
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.csproj.CoreCompileInputs.cache
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\Sistemsk.93CF11E2.Up2Date
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\refint\SistemskeOperacije.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.pdb
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\ref\SistemskeOperacije.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\SistemskeOperacije.deps.json
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\SistemskeOperacije.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\SistemskeOperacije.pdb
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\DBBroker.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\Zajednicki.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\DBBroker.pdb
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\Zajednicki.pdb
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.csproj.AssemblyReference.cache
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.AssemblyInfoInputs.cache
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.AssemblyInfo.cs
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.csproj.CoreCompileInputs.cache
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\Sistemsk.93CF11E2.Up2Date
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\refint\SistemskeOperacije.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.pdb
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\ref\SistemskeOperacije.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\SistemskeOperacije.deps.json
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\SistemskeOperacije.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\SistemskeOperacije.pdb
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\DBBroker.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\Zajednicki.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\DBBroker.pdb
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\SistemskeOperacije\bin\Debug\net8.0\Zajednicki.pdb
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.AssemblyInfo.cs
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\Sistemsk.93CF11E2.Up2Date
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\refint\SistemskeOperacije.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\SistemskeOperacije.pdb
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\SistemskeOperacije\obj\Debug\net8.0\ref\SistemskeOperacije.dll

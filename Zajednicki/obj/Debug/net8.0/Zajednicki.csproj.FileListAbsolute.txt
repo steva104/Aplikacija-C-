@@ -1,0 +1,60 @@
+C:\ZubarProjekat\Zajednicki\bin\Debug\net8.0\Zajednicki.deps.json
+C:\ZubarProjekat\Zajednicki\bin\Debug\net8.0\Zajednicki.dll
+C:\ZubarProjekat\Zajednicki\bin\Debug\net8.0\Zajednicki.pdb
+C:\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.csproj.AssemblyReference.cache
+C:\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.AssemblyInfoInputs.cache
+C:\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.AssemblyInfo.cs
+C:\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.csproj.CoreCompileInputs.cache
+C:\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.dll
+C:\ZubarProjekat\Zajednicki\obj\Debug\net8.0\refint\Zajednicki.dll
+C:\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.pdb
+C:\ZubarProjekat\Zajednicki\obj\Debug\net8.0\ref\Zajednicki.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Zajednicki\bin\Debug\net8.0\Zajednicki.deps.json
+C:\Users\Stevan\Desktop\ZubarProjekat\Zajednicki\bin\Debug\net8.0\Zajednicki.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Zajednicki\bin\Debug\net8.0\Zajednicki.pdb
+C:\Users\Stevan\Desktop\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.csproj.AssemblyReference.cache
+C:\Users\Stevan\Desktop\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stevan\Desktop\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.AssemblyInfoInputs.cache
+C:\Users\Stevan\Desktop\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.AssemblyInfo.cs
+C:\Users\Stevan\Desktop\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.csproj.CoreCompileInputs.cache
+C:\Users\Stevan\Desktop\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Zajednicki\obj\Debug\net8.0\refint\Zajednicki.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.pdb
+C:\Users\Stevan\Desktop\ZubarProjekat\Zajednicki\obj\Debug\net8.0\ref\Zajednicki.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Zajednicki\bin\Debug\net8.0\Zajednicki.deps.json
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Zajednicki\bin\Debug\net8.0\Zajednicki.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Zajednicki\bin\Debug\net8.0\Zajednicki.pdb
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.csproj.AssemblyReference.cache
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.AssemblyInfoInputs.cache
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.AssemblyInfo.cs
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.csproj.CoreCompileInputs.cache
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Zajednicki\obj\Debug\net8.0\refint\Zajednicki.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.pdb
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Zajednicki\obj\Debug\net8.0\ref\Zajednicki.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Zajednicki\bin\Debug\net8.0\Zajednicki.deps.json
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Zajednicki\bin\Debug\net8.0\Zajednicki.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Zajednicki\bin\Debug\net8.0\Zajednicki.pdb
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.csproj.AssemblyReference.cache
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.AssemblyInfoInputs.cache
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.AssemblyInfo.cs
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.csproj.CoreCompileInputs.cache
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Zajednicki\obj\Debug\net8.0\refint\Zajednicki.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.pdb
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Zajednicki\obj\Debug\net8.0\ref\Zajednicki.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Zajednicki\bin\Debug\net8.0\Zajednicki.deps.json
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Zajednicki\bin\Debug\net8.0\Zajednicki.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Zajednicki\bin\Debug\net8.0\Zajednicki.pdb
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.AssemblyInfo.cs
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Zajednicki\obj\Debug\net8.0\refint\Zajednicki.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Zajednicki\obj\Debug\net8.0\Zajednicki.pdb
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Zajednicki\obj\Debug\net8.0\ref\Zajednicki.dll

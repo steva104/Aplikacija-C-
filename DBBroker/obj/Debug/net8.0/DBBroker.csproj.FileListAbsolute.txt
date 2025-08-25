@@ -1,0 +1,75 @@
+C:\ZubarProjekat\DBBroker\bin\Debug\net8.0\DBBroker.deps.json
+C:\ZubarProjekat\DBBroker\bin\Debug\net8.0\DBBroker.dll
+C:\ZubarProjekat\DBBroker\bin\Debug\net8.0\DBBroker.pdb
+C:\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.csproj.AssemblyReference.cache
+C:\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.AssemblyInfoInputs.cache
+C:\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.AssemblyInfo.cs
+C:\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.csproj.CoreCompileInputs.cache
+C:\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.dll
+C:\ZubarProjekat\DBBroker\obj\Debug\net8.0\refint\DBBroker.dll
+C:\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.pdb
+C:\ZubarProjekat\DBBroker\obj\Debug\net8.0\ref\DBBroker.dll
+C:\ZubarProjekat\DBBroker\bin\Debug\net8.0\Zajednicki.dll
+C:\ZubarProjekat\DBBroker\bin\Debug\net8.0\Zajednicki.pdb
+C:\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.csproj.Up2Date
+C:\Users\Stevan\Desktop\ZubarProjekat\DBBroker\bin\Debug\net8.0\DBBroker.deps.json
+C:\Users\Stevan\Desktop\ZubarProjekat\DBBroker\bin\Debug\net8.0\DBBroker.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\DBBroker\bin\Debug\net8.0\DBBroker.pdb
+C:\Users\Stevan\Desktop\ZubarProjekat\DBBroker\bin\Debug\net8.0\Zajednicki.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\DBBroker\bin\Debug\net8.0\Zajednicki.pdb
+C:\Users\Stevan\Desktop\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.csproj.AssemblyReference.cache
+C:\Users\Stevan\Desktop\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stevan\Desktop\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.AssemblyInfoInputs.cache
+C:\Users\Stevan\Desktop\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.AssemblyInfo.cs
+C:\Users\Stevan\Desktop\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.csproj.CoreCompileInputs.cache
+C:\Users\Stevan\Desktop\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.csproj.Up2Date
+C:\Users\Stevan\Desktop\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\DBBroker\obj\Debug\net8.0\refint\DBBroker.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.pdb
+C:\Users\Stevan\Desktop\ZubarProjekat\DBBroker\obj\Debug\net8.0\ref\DBBroker.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\DBBroker\bin\Debug\net8.0\DBBroker.deps.json
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\DBBroker\bin\Debug\net8.0\DBBroker.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\DBBroker\bin\Debug\net8.0\DBBroker.pdb
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\DBBroker\bin\Debug\net8.0\Zajednicki.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\DBBroker\bin\Debug\net8.0\Zajednicki.pdb
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.csproj.AssemblyReference.cache
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.AssemblyInfoInputs.cache
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.AssemblyInfo.cs
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.csproj.CoreCompileInputs.cache
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.csproj.Up2Date
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\DBBroker\obj\Debug\net8.0\refint\DBBroker.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.pdb
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\DBBroker\obj\Debug\net8.0\ref\DBBroker.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\DBBroker\bin\Debug\net8.0\DBBroker.deps.json
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\DBBroker\bin\Debug\net8.0\DBBroker.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\DBBroker\bin\Debug\net8.0\DBBroker.pdb
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\DBBroker\bin\Debug\net8.0\Zajednicki.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\DBBroker\bin\Debug\net8.0\Zajednicki.pdb
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.csproj.AssemblyReference.cache
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.AssemblyInfoInputs.cache
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.AssemblyInfo.cs
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.csproj.CoreCompileInputs.cache
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.csproj.Up2Date
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\DBBroker\obj\Debug\net8.0\refint\DBBroker.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.pdb
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\DBBroker\obj\Debug\net8.0\ref\DBBroker.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\DBBroker\bin\Debug\net8.0\DBBroker.deps.json
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\DBBroker\bin\Debug\net8.0\DBBroker.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\DBBroker\bin\Debug\net8.0\DBBroker.pdb
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\DBBroker\bin\Debug\net8.0\Zajednicki.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\DBBroker\bin\Debug\net8.0\Zajednicki.pdb
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.AssemblyInfo.cs
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.csproj.Up2Date
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\DBBroker\obj\Debug\net8.0\refint\DBBroker.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\DBBroker\obj\Debug\net8.0\DBBroker.pdb
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\DBBroker\obj\Debug\net8.0\ref\DBBroker.dll

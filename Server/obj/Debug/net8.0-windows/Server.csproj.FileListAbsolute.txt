@@ -1,0 +1,350 @@
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\Server.exe
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\Server.deps.json
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\Server.runtimeconfig.json
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\Server.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\Server.pdb
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\DBBroker.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\SistemskeOperacije.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\Zajednicki.dll
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\Zajednicki.pdb
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\DBBroker.pdb
+C:\ZubarProjekat\Server\bin\Debug\net8.0-windows\SistemskeOperacije.pdb
+C:\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.csproj.AssemblyReference.cache
+C:\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.FrmServer.resources
+C:\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.csproj.GenerateResource.cache
+C:\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.AssemblyInfoInputs.cache
+C:\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.AssemblyInfo.cs
+C:\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.csproj.CoreCompileInputs.cache
+C:\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.csproj.Up2Date
+C:\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.dll
+C:\ZubarProjekat\Server\obj\Debug\net8.0-windows\refint\Server.dll
+C:\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.pdb
+C:\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.genruntimeconfig.cache
+C:\ZubarProjekat\Server\obj\Debug\net8.0-windows\ref\Server.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\Server.exe
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\Server.deps.json
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\Server.runtimeconfig.json
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\Server.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\Server.pdb
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\DBBroker.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\SistemskeOperacije.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\Zajednicki.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\DBBroker.pdb
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\SistemskeOperacije.pdb
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\bin\Debug\net8.0-windows\Zajednicki.pdb
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.csproj.AssemblyReference.cache
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.FrmServer.resources
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.csproj.GenerateResource.cache
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.AssemblyInfoInputs.cache
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.AssemblyInfo.cs
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.csproj.CoreCompileInputs.cache
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.csproj.Up2Date
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\obj\Debug\net8.0-windows\refint\Server.dll
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.pdb
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.genruntimeconfig.cache
+C:\Users\Stevan\Desktop\ZubarProjekat\Server\obj\Debug\net8.0-windows\ref\Server.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Server.exe
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Server.deps.json
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Server.runtimeconfig.json
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Server.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Server.pdb
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\DBBroker.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\SistemskeOperacije.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Zajednicki.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\DBBroker.pdb
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\SistemskeOperacije.pdb
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Zajednicki.pdb
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.csproj.AssemblyReference.cache
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.FrmServer.resources
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.csproj.GenerateResource.cache
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.AssemblyInfoInputs.cache
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.AssemblyInfo.cs
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.csproj.CoreCompileInputs.cache
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.csproj.Up2Date
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\obj\Debug\net8.0-windows\refint\Server.dll
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.pdb
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.genruntimeconfig.cache
+C:\Users\Stevan\Desktop\visual studio projekti\ZubarProjekat\Server\obj\Debug\net8.0-windows\ref\Server.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Server.exe
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Server.deps.json
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Server.runtimeconfig.json
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Server.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Server.pdb
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\DBBroker.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\SistemskeOperacije.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Zajednicki.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\DBBroker.pdb
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\SistemskeOperacije.pdb
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\bin\Debug\net8.0-windows\Zajednicki.pdb
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.csproj.AssemblyReference.cache
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.FrmServer.resources
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.csproj.GenerateResource.cache
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.AssemblyInfoInputs.cache
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.AssemblyInfo.cs
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.csproj.CoreCompileInputs.cache
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.csproj.Up2Date
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\obj\Debug\net8.0-windows\refint\Server.dll
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.pdb
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.genruntimeconfig.cache
+C:\Users\Stevan\Desktop\рандомасс\visual studio projekti\ZubarProjekat\Server\obj\Debug\net8.0-windows\ref\Server.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\Server.exe
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\Server.deps.json
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\Server.runtimeconfig.json
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\Server.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\Server.pdb
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\DBBroker.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\SistemskeOperacije.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\Zajednicki.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\DBBroker.pdb
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\SistemskeOperacije.pdb
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\bin\Debug\net8.0-windows\Zajednicki.pdb
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.FrmServer.resources
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.AssemblyInfo.cs
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.csproj.Up2Date
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\obj\Debug\net8.0-windows\refint\Server.dll
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.pdb
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\obj\Debug\net8.0-windows\Server.genruntimeconfig.cache
+C:\Users\DELL\OneDrive - Fakultet organizacionih nauka\ZubarProjekatFINAL\ZubarProjekat\Server\obj\Debug\net8.0-windows\ref\Server.dll
